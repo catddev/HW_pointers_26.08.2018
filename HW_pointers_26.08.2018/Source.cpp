@@ -148,10 +148,10 @@ int main()
 			}
 			cout << endl << endl;
 
-			two = two / 10 * 100;
-			three = three / 10 * 100;
-			four = four / 10 * 100;
-			five = five / 10 * 100;
+			two = two / 20 * 100;
+			three = three / 20 * 100;
+			four = four / 20 * 100;
+			five = five / 20 * 100;
 
 			cout << "(2) - " << two << "%" << endl;
 			cout << "(3) - " << three << "%" << endl;
