@@ -160,11 +160,6 @@ int main()
 			
 		}
 		break;
-		case 7:
-		{
-
-		}
-		break;
 		default:
 			cout << "нет такой задачи" << endl << endl;
 		}
